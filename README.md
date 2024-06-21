@@ -1,11 +1,11 @@
 ## Task 0 for Devops Internship @PCN Lab Fast Islamabad.
 
-# Containers
+### Containers
 ![screenshot of all containers](screenshots/containers.png)
 
-# Merge Conflict
+### Merge Conflict
 ![screenshot of merge conflict](screenshots/merge-conflict.png)
 
-# Resolved Merge Conflict
+### Resolved Merge Conflict
 ![screenshot of merge conflict resolved](screenshots/conflict-resolved.png)
 
