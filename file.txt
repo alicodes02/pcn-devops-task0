@@ -1,0 +1,4 @@
+This file is made for demonstrating merge conflicts.
+
+This is line 1 from main branch.
+This line is from master branch
