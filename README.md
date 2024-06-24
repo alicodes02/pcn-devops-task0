@@ -9,3 +9,6 @@
 ### Resolved Merge Conflict
 ![screenshot of merge conflict resolved](screenshots/conflict-resolved.png)
 
+### Day-1 Task Screen Recording:
+Link: https://drive.google.com/file/d/1uWwMhbeARF5cJNBd8SiYeHJZG_e9iiuy/view?usp=sharing
+
